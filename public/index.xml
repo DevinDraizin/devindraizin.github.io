@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevinDraizin</title>
+    <link>https://example.org/</link>
+    <description>Recent content on DevinDraizin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:16 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lot Tracing Software</title>
+      <link>https://example.org/projects/lottracer/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://example.org/projects/lottracer/</guid>
+      <description>This was a custom application written completely in javaFX, CSS, FXML, and MySQL. The purpose was to create a product manager for tracking and generating lot information throughout the product life cycle. The application has a modern Material Design user interface to make interactions functional and beautiful. In the backend, a custom data access layer connects to a MySQL server built completely from scratch to make data IO quick and safe.</description>
+    </item>
+    
+    <item>
+      <title>IREC Project</title>
+      <link>https://example.org/projects/irecproject/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://example.org/projects/irecproject/</guid>
+      <description>The Intercollegiate Rocketry Engineering Competition is a global event for universities around the world to build and launch rockets in Truth or Consequences New Mexico. My team and I built a 10ft, carbon fiber rocket that launched a micro gravity experiment 13700ft in the air. The experiment simulated micro asteroids impacting surfaces in microgravity to explore how the dust from the impact interacts to eventually form larger bodies. We designed and casted our own solid rocket motor containing potassium nitrate and sorbitol (sugar) which was used for the launch in NM.</description>
+    </item>
+    
+    <item>
+      <title>Payroll App</title>
+      <link>https://example.org/projects/payroll/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://example.org/projects/payroll/</guid>
+      <description>This was a custom application written completely in javaFX, CSS, FXML, and MySQL. The purpose was to create a sign in application to track payroll and employee tasks. The application has a modern Material Design user interface to make interactions functional and beautiful. Additionally, the application archived all of the data to a cloud server for easy retrieval and safety.
+Some useful features include
+ Message system for administrator and employees Email detailed Excel time sheets for each employee on demand Time sheet editor for sign in discrepencies payroll calculator for variable intervals  View full program here</description>
+    </item>
+    
+    <item>
+      <title>Relational Database</title>
+      <link>https://example.org/projects/database/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://example.org/projects/database/</guid>
+      <description>This was a java framework designed to use data access models to create flexible MySQL tables for fast and extremely scalable data retrieval. This can be used to subclass larger data tables without forcing a single convention on each subclass. Because each subclass maintains a one to one relationship with the primary data table, we can use the data in each subclass to perform search and filter operations on the primary data table.</description>
+    </item>
+    
+    <item>
+      <title>Hipster Ipsum</title>
+      <link>https://example.org/blog/hipster-ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>https://example.org/blog/hipster-ipsum/</guid>
+      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
+    </item>
+    
+    <item>
+      <title>Startup Ipsum</title>
+      <link>https://example.org/blog/startup-ipsum/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>https://example.org/blog/startup-ipsum/</guid>
+      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
+    </item>
+    
+    <item>
+      <title>Coffee Ipsum</title>
+      <link>https://example.org/blog/coffee-ipsum/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>https://example.org/blog/coffee-ipsum/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
+      
+      <guid>https://example.org/contact/</guid>
+      <description>I&amp;rsquo;m always looking to make new friends so just send me an email to get in contact!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>I am an undergraduate student at the University of Central Florida majoring in Computer Engineering with a minor in mathematics. My passion lies in exploring new technologies in electronics, mechanics, software development and more to help solve problems and make people&amp;rsquo;s lives easier. I participate in several computer and technology-focused organizations such as TechKnights (a student organization which centers on building and learning anything tech) and HackUCF (a collegiate cyber defense club which competes in areas such as information security, networking, and software development).</description>
+    </item>
+    
+  </channel>
+</rss>

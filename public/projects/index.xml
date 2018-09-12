@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on DevinDraizin</title>
+    <link>https://example.org/projects/</link>
+    <description>Recent content in Projects on DevinDraizin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:16 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lot Tracing Software</title>
+      <link>https://example.org/projects/lottracer/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://example.org/projects/lottracer/</guid>
+      <description>This was a custom application written completely in javaFX, CSS, FXML, and MySQL. The purpose was to create a product manager for tracking and generating lot information throughout the product life cycle. The application has a modern Material Design user interface to make interactions functional and beautiful. In the backend, a custom data access layer connects to a MySQL server built completely from scratch to make data IO quick and safe.</description>
+    </item>
+    
+    <item>
+      <title>IREC Project</title>
+      <link>https://example.org/projects/irecproject/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://example.org/projects/irecproject/</guid>
+      <description>The Intercollegiate Rocketry Engineering Competition is a global event for universities around the world to build and launch rockets in Truth or Consequences New Mexico. My team and I built a 10ft, carbon fiber rocket that launched a micro gravity experiment 13700ft in the air. The experiment simulated micro asteroids impacting surfaces in microgravity to explore how the dust from the impact interacts to eventually form larger bodies. We designed and casted our own solid rocket motor containing potassium nitrate and sorbitol (sugar) which was used for the launch in NM.</description>
+    </item>
+    
+    <item>
+      <title>Payroll App</title>
+      <link>https://example.org/projects/payroll/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://example.org/projects/payroll/</guid>
+      <description>This was a custom application written completely in javaFX, CSS, FXML, and MySQL. The purpose was to create a sign in application to track payroll and employee tasks. The application has a modern Material Design user interface to make interactions functional and beautiful. Additionally, the application archived all of the data to a cloud server for easy retrieval and safety.
+Some useful features include
+ Message system for administrator and employees Email detailed Excel time sheets for each employee on demand Time sheet editor for sign in discrepencies payroll calculator for variable intervals  View full program here</description>
+    </item>
+    
+    <item>
+      <title>Relational Database</title>
+      <link>https://example.org/projects/database/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://example.org/projects/database/</guid>
+      <description>This was a java framework designed to use data access models to create flexible MySQL tables for fast and extremely scalable data retrieval. This can be used to subclass larger data tables without forcing a single convention on each subclass. Because each subclass maintains a one to one relationship with the primary data table, we can use the data in each subclass to perform search and filter operations on the primary data table.</description>
+    </item>
+    
+  </channel>
+</rss>
