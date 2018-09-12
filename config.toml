@@ -1,5 +1,6 @@
 baseURL                     = "https://devindraizin.github.io/"            # Your domain name. Must end with "/"
 languageCode                = "en-us"                           # languageCode
+publishDir = "docs"
 title                       = "DevinDraizin"                    # Site title
 theme                       = "introduction"
 pygmentsStyle               = "monokai"                         # https://help.farbox.com/pygments.html
