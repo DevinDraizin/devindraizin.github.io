@@ -11,7 +11,7 @@ a product manager for tracking and generating lot information throughout the pro
 has a modern Material Design user interface to make interactions functional and beautiful.
 In the backend, a custom data access layer connects to a MySQL server built completely from scratch to make data IO quick and safe.
 
-[View full program here](https://github.com/DevinDraizin/LotTracing)
+[View full program here](https://github.com/DevinDraizin/LotTracer)
 
 
 
