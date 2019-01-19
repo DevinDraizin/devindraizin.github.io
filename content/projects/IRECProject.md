@@ -11,7 +11,7 @@ The Intercollegiate Rocketry Engineering Competition is a global event for unive
 
 
 Promo Video:
-{{< youtube jigBMNnVR2w >}}
+{{< youtube K9FZL5dgmfg >}}
 
 
 [IREC Competition](http://www.soundingrocket.org/what-is-irec.html)
